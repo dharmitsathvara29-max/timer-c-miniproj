@@ -1,1 +1,1 @@
-# timer-c-miniproj
+# timer-c++-miniproj
